@@ -1,0 +1,19 @@
+h2{
+    color: black;
+    margin-left:10% ;
+
+}
+.sale a{
+    text-decoration: none;
+    background-color: bisque;
+    margin-right: 3%;
+    padding: 5px;
+    color: black;
+    
+    
+
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+}
